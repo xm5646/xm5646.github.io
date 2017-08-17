@@ -7,7 +7,7 @@
 
 # Site settings
 title: 追寻梦想
-brief-intro: 云计算相关技术知识记录分享
+brief-intro: 技术知识记录分享
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://xm5646.github.io" # the base hostname & protocol for your site
 
