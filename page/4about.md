@@ -1,0 +1,47 @@
+---
+layout: page
+title: About
+permalink: /about/
+icon: heart
+type: page
+---
+
+* content
+{:toc}
+
+## 关于我
+
+<iframe src="https://githubbadge.appspot.com/whydejavu" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
+
+就职于中电普华信息技术有限公司，云计算开发工程师
+
+从2016年起，开始接触开源，接触Openstack,就开始喜欢开源这个模式，喜欢这个社区，这个共享的大环境。
+
+## 我的经历
+
+* 待完善
+
+## 联系我
+
+* GitHub：[whydejavu](https://github.com/whydejavu)
+* email：zhqk1234567@126.com
+* [Weibo](http://weibo.com/u/2557932345)
+
+
+## 关于本站
+
+**本站直接参考[https://github.com/Gaohaoyang/gaohaoyang.github.io](https://github.com/Gaohaoyang/gaohaoyang.github.io)若您想使用更多jekyll 博客主题，请访问：**
+
+~欢迎使用~
+
+欢迎大家提一些对本站主题的建议，可以直接在下面留言
+
+### Update Log
+
+
+## 友情链接
+
+
+## Comments
+
+{% include comments.html %}
