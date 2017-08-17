@@ -6,18 +6,18 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: whydejavu
-brief-intro: Front-end Dev Engineer
+title: 追寻梦想
+brief-intro: 云计算相关技术知识记录分享
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://whydejavu.github.io" # the base hostname & protocol for your site
+url: "https://xm5646.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
 # other links
 twitter_username: 
 facebook_username: 
-github_username:  whydejavu
-email: zhqk1234567@126.com
+github_username:  xm5646
+email: lixmsucc@163.com
 weibo_username: 
 zhihu_username: 
 linkedIn_username: 
@@ -35,8 +35,8 @@ disqus_shortname: whydejavu
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
 # xxxxx字符串
-baidu_tongji_id: cf8506e0ef223e57ff6239944e5d46a4
-google_analytics_id: UA-72449510-4 # google 分析追踪id
+baidu_tongji_id: c2dfb79fd4dfe3b30ceae9c0aed2e03f
+google_analytics_id: UA-104793903-1 # google 分析追踪id
 
 # Build settings
 markdown: kramdown
