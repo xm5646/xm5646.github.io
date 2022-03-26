@@ -7,12 +7,10 @@ layout: default
         <h1>欢迎来到我的博客</h1>
     
         <small>好记性不如烂笔头，分享更快乐！</small>
-          <button onclick="copyText('www.xxxx.com')">复制</button>
+  
         <hr>
-            <button onclick="copyText('www.xxxx.com')">复制</button>
-        <div id="btn" class="js-copy" data-clipboard-text="111-从属性复制">
-    <span>复制到剪切板-111</span>
-</div>
+        <span id="demoInput">ssssssssssss</span>
+        <button class="btn" data-clipboard-target="#demoInput">点我复制</button>
         <ul>
             {% for post in paginator.posts %}
               <li>
@@ -162,5 +160,6 @@ layout: default
         </div>
     </div>
 </div>
+<script src="dist/clipboard.min.js"></script>
 <!-- <script src="{{ "/js/scroll.min.js " | prepend: site.baseurl }}" charset="utf-8"></script> -->
 <!-- <script src="{{ "/js/pageContent.js " | prepend: site.baseurl }}" charset="utf-8"></script> -->
